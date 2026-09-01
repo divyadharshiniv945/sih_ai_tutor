@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment / secrets
+.env
+
+# VS Code
+.vscode/
+
+# Large raw PDFs
+data/raw/*.pdf
+
+# Generated/processed data
+data/processed/
